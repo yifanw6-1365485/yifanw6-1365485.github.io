@@ -1,0 +1,15 @@
+
+body {
+ background-color: #98FB98;
+}
+h1 {
+ color: red;
+ text-align: center;
+ margin-left: 25px;
+ border: 5px
+ font: Times 100% fantasy;
+}
+h2 {  
+	margin-left: 30px;
+    color: black; 
+}
