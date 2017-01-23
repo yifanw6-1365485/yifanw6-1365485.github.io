@@ -1,0 +1,88 @@
+body{
+	background-image: url('new_year_background.png');
+	background-color: #98FB98;
+	outline: 10px dashed red;
+	outline-color:  blue;	
+	font-family: 'arial';
+	color: green;
+	font-weight: bold;
+
+}
+h2{
+	border-image: url('Job_Search-512');
+	border: 10px black;
+	font-family:"Times New Roman";
+	font-size: 100px;
+	text-align:center;
+
+}
+#Account{
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	border: dashed 10px black;
+	width: 600px;
+	text-align:center;
+	padding-bottom: 10px;
+	outline-style: groove;
+	outline-color: red;
+	outline-width: 8px;
+}
+#Field{	
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	border: dashed 10px black;
+	width: 600px;
+	text-align:center;
+	padding-bottom: 10px;
+	outline-style: groove;
+	outline-color: red;
+	outline-width: 8px;
+}
+#field{
+	border: solid 8px black;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	float: left;
+	text-align:center;
+	padding-bottom: 8px;
+}
+#PersonalInformation{
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	border: dashed 10px black;
+	width: 600px;
+	text-align:center;
+	padding-bottom: 10px;
+	outline-style: groove;
+	outline-color: red;
+	outline-width: 8px;
+}
+#Availablility{
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	border: dashed 10px black;
+	width: 600px;
+	text-align:center;
+	padding-bottom: 10px;
+	outline-style: groove;
+	outline-color: red;
+	outline-width: 8px;
+}
+#PersonalStatement{
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	border: dashed 10px black;
+	width: 600px;
+	text-align:center;
+	padding-bottom: 10px;
+	outline-style: groove;
+	outline-color: red;
+	outline-width: 8px;
+}
